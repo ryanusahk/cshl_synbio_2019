@@ -1,0 +1,10 @@
+,v1,v2,relative_fitness,arrow,significant,positive,edge_scale
+0,CFP,CFP,1.0,False,False,False,0.0
+1,RFP,CFP,1.62,True,False,True,0.7
+2,YFP,CFP,10.32,True,True,True,3.37
+3,CFP,RFP,1.13,True,False,True,0.18
+4,RFP,RFP,1.0,False,False,False,0.0
+5,YFP,RFP,0.98,False,False,False,-0.03
+6,CFP,YFP,1.53,True,True,True,0.61
+7,RFP,YFP,1.78,True,True,True,0.83
+8,YFP,YFP,1.0,False,False,False,0.0
